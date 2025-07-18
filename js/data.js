@@ -2,27 +2,27 @@
 export const membersData = [
   {
     name: "河合 未希",
-    role: "主任",
+    position: "主任",
     familyComposition: "主人・長女（7歳）次女（3歳）長男（1歳）私の5人家族"
   },
   {
     name: "川村 奈緒子", 
-    role: "主任",
+    position: "主任",
     familyComposition: "主人、双子の長女（2歳）、次男（2歳）、私の4人家族"
   },
   {
     name: "林 桂子",
-    role: "主任", 
+    position: "主任", 
     familyComposition: "主人・長女（19歳）長男（16歳）次男（7歳）私の5人家族"
   },
   {
     name: "ファム ティフーン",
-    role: "社員",
+    position: "社員",
     familyComposition: "主人、長女（1歳）、私の3人家族"
   },
   {
     name: "阿川 すみれ",
-    role: "社員", 
+    position: "社員", 
     familyComposition: "主人、長男（おなかの中）、私の3人家族"
   }
 ];

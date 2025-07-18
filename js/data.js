@@ -17,12 +17,12 @@ export const membersData = [
   },
   {
     name: "ファム ティフーン",
-    role: "メンバー",
+    role: "社員",
     familyComposition: "主人、長女（1歳）、私の3人家族"
   },
   {
     name: "阿川 すみれ",
-    role: "メンバー", 
+    role: "社員", 
     familyComposition: "主人、長男（おなかの中）、私の3人家族"
   }
 ];

@@ -24,14 +24,14 @@ const members = [
     {
         id: 'pham_thi_huong',
         name: 'ファム ティフーン',
-        position: 'メンバー',
+        position: '社員',
         familyInfo: '主人、長女（1歳）、私の3人家族',
         photoUrl: 'images/pham_thi_huong.jpg'
     },
     {
         id: 'agawa_sumire',
         name: '阿川 すみれ',
-        position: 'メンバー',
+        position: '社員',
         familyInfo: '主人、長男（おなかの中）、私の3人家族',
         photoUrl: 'images/agawa_sumire.jpg'
     }
